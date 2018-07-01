@@ -1,3 +1,5 @@
+##code
+
 def number_of_students(first, last, full):
     number = int(input("How mainy students are in the class: "))
     for i in range(0,number):
